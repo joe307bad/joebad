@@ -24,6 +24,6 @@
             </a>
         </li>
     </ul>
-    <div id="top-corner"></div>
-    <div id="bottom-corner"></div>
 </div>
+<div id="top-corner"></div>
+<div id="bottom-corner"></div>

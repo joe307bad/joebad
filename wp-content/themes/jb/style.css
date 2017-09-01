@@ -69,10 +69,13 @@ h2 {
     position: absolute;
     top: 50%;
     margin-top: -187.5px;
+    z-index: 99;
+    background-color: #bd4b4b;
 }
 
 @media (min-width: 730px) {
     #content {
+        background-color: transparent;
         margin-top: -241px;
     }
 }
@@ -90,7 +93,14 @@ li {
     padding: 20px;
     position: relative;
     height: 50px;
-    width: 50px;
+    width: 17px;
+}
+
+
+@media (min-width: 730px) {
+    li {
+        width: 50px;
+    }
 }
 
 #top-corner {
