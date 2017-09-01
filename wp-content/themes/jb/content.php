@@ -18,6 +18,11 @@
                 <i class="fa fa-github" aria-hidden="true"></i>
             </a>
         </li>
+        <li>
+            <a href="/wp-content/Badaczewski_Resumé.pdf">
+                <i class="fa fa-file-text-o" aria-hidden="true"></i>
+            </a>
+        </li>
     </ul>
     <div id="top-corner"></div>
     <div id="bottom-corner"></div>
