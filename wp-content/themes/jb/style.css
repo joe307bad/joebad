@@ -68,7 +68,13 @@ h2 {
     width: 100%;
     position: absolute;
     top: 50%;
-    margin-top: -241px;
+    margin-top: -187.5px;
+}
+
+@media (min-width: 730px) {
+    #content {
+        margin-top: -241px;
+    }
 }
 
 ul {
@@ -92,9 +98,15 @@ li {
     width: 2000px;
     height: 1000px;
     position: fixed;
-    top: -1000px;
+    top: -1200px;
     right: -500px;
     transform: rotate(30deg);
+}
+
+@media (min-width: 730px) {
+    #top-corner {
+        top: -1000px;
+    }
 }
 
 #bottom-corner {
@@ -102,7 +114,13 @@ li {
     width: 2000px;
     height: 1000px;
     position: fixed;
-    bottom: -1000px;
+    bottom: -1200px;
     left: -500px;
     transform: rotate(30deg);
+}
+
+@media (min-width: 730px) {
+    #bottom-corner {
+        bottom: -1000px;
+    }
 }
