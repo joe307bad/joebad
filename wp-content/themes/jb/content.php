@@ -4,22 +4,22 @@
     <h2>Web Application Developer</h2>
     <ul>
         <li>
-            <a href="https://www.linkedin.com/in/joe-badaczewski-273747b">
+            <a title='LinkedIn' href="https://www.linkedin.com/in/joe-badaczewski-273747b">
                 <i class="fa fa-linkedin" aria-hidden="true"></i>
             </a>
         </li>
         <li>
-            <a href="https://twitter.com/joe307bad">
+            <a title="Twitter" href="https://twitter.com/joe307bad">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
             </a>
         </li>
         <li>
-            <a href="https://github.com/joe307bad">
+            <a title="Github" href="https://github.com/joe307bad">
                 <i class="fa fa-github" aria-hidden="true"></i>
             </a>
         </li>
         <li>
-            <a href="/wp-content/Badaczewski_Resumé.pdf">
+            <a title="Resumé" href="/wp-content/Badaczewski_Resumé.pdf">
                 <i class="fa fa-file-text-o" aria-hidden="true"></i>
             </a>
         </li>
