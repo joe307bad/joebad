@@ -1,6 +1,20 @@
 @import url(./font-awesome.css);
 @import url(./css/font/stylesheet.css);
 
+h2 a {
+    position: relative;
+    top: inherit;
+    left: inherit;
+    margin: 0;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+h2 a:hover{
+    font-size:inherit;
+    margin: 0;
+}
+
 a {
     color: #4ce0b3;
     position: absolute;
@@ -20,9 +34,7 @@ i {
 }
 
 a:hover {
-    font-size: 55px;
-    margin-top: -27px;
-    margin-left: -27px;
+
 }
 
 body {
@@ -95,7 +107,6 @@ li {
     height: 50px;
     width: 17px;
 }
-
 
 @media (min-width: 730px) {
     li {
