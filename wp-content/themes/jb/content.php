@@ -1,7 +1,7 @@
 <div id="content">
     <img height="200" src="/wp-content/themes/jb/images/logo.png" />
     <h1>Joe Badaczewski</h1>
-    <h2>Software Engineer at <a target="_blank" href="http://www.selectinternational.com">Select International</a></h2>
+    <h2>Software Engineer at <a target="_blank" href="https://www.psionline.com">PSI</a></h2>
     <ul>
         <li>
             <a title='LinkedIn' href="https://www.linkedin.com/in/joe-badaczewski-273747b">
